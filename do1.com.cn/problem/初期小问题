@@ -2,3 +2,4 @@
   * %java_home%没有翻译成对应的路径，原来在win10中已经不支持这种写法，亦或是权限不同，path是系统环境变量，classpath和java_home是用户环境变量
 * idea编译时报错:“编码GBK的不可映射字符”
   * 修改路径File->Settings->File Encodings编码，然后重新build下，重启下idea就可以了
+* project structure配合好路径后，要在代码中运行下，代码的左侧有运行的按钮
